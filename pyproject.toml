@@ -9,7 +9,7 @@ name = "pydantic-airflow"
 authors = [
     {name = "the pydantic-airflow authors", email = "t.paine154@gmail.com"},
 ]
-description = "Pydantic models for Apache Airflow"
+description = "Alias for airflow-pydantic"
 readme = "README.md"
 license = { text = "Apache-2.0" }
 version = "0.1.0"
@@ -52,8 +52,8 @@ develop = [
 [project.scripts]
 
 [project.urls]
-Repository = "https://github.com/airflow-laminar/pydantic-airflow"
-Homepage = "https://github.com/airflow-laminar/pydantic-airflow"
+Repository = "https://github.com/tkp-aliases/pydantic-airflow"
+Homepage = "https://github.com/tkp-aliases/pydantic-airflow"
 
 [tool.bumpversion]
 current_version = "0.1.0"
