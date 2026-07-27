@@ -1,4 +1,4 @@
-from pydantic_airflow import *  # noqa
+from pydantic_airflow import *
 
 
 def test_all():
